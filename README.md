@@ -24,6 +24,10 @@ mvn spring-boot:run
  Please change if there is error showing port already used.
  
  
+## Project
 
+I have used angularjs for front end .
+
+Spring boot with mongodb for back end.
 
 
